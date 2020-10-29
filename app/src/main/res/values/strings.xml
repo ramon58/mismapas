@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titulo_lugares">LUGARES MÁS VISITADOS</string>
+</resources>
